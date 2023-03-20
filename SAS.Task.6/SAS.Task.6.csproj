@@ -22,6 +22,19 @@
 		<None Remove="Images\11.jpg" />
 		<None Remove="Images\12.jpg" />
 		<None Remove="Images\13.jpg" />
+		<None Remove="Images\1.png" />
+		<None Remove="Images\2.png" />
+		<None Remove="Images\3.png" />
+		<None Remove="Images\4.png" />
+		<None Remove="Images\5.png" />
+		<None Remove="Images\6.png" />
+		<None Remove="Images\7.png" />
+		<None Remove="Images\8.png" />
+		<None Remove="Images\9.png" />
+		<None Remove="Images\10.png" />
+		<None Remove="Images\11.png" />
+		<None Remove="Images\12.png" />
+		<None Remove="Images\13.png" />
 	</ItemGroup>
   <ItemGroup>
     <PackageReference Include="MaterialDesignColors" Version="2.1.2" />
